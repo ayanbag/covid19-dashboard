@@ -1,6 +1,6 @@
 ## COVID-19 Global Dashboard by React JS
 
-- Demo -- please visit (https://covid19.netlify.app)
+- Demo -- please visit (https://covid19v.netlify.app)
 - [mathdroid API](https://github.com/mathdroid/covid-19-api) (Data sourced from John Hopkins University CSSE)
 
 
