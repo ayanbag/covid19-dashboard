@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"
 import ReactMapGL, { Marker } from "react-map-gl"
 import { fetchMapData } from '../../api'
-const TOKEN = "pk.eyJ1IjoiYXlhbmJhZyIsImEiOiJjanRsNHRkNWUwYTFuNGFwZjJzZzllYWlrIn0.bIaS81q6CGFuuAF1FOHTow"
+const TOKEN = "pk.eyJ1IjoiYXlhbmJhZyIsImEiOiJja2JxcWNmNXoxc29lMnVxdHBjM2pndzBwIn0.d2bzcmhEPwchbmcOiNBh4g"
 
 
 const Map = ({ data }) => {
