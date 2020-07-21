@@ -37,7 +37,7 @@ const Map = ({ data }) => {
           {...viewport}
           width='100%'
           height='100%'
-          mapStyle="mapbox://styles/ayanbag/ck9r7hmth1pj31imromhcamlc"
+          mapStyle="mapbox://styles/ayanbag/ck9r7e2py1pfs1imr18xijrsl"
           onViewportChange={updateViewport}
           mapboxApiAccessToken={TOKEN}
         >
